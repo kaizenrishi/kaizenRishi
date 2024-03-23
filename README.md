@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Rishabh Rawat</h1>
-<h3 align="center">A passionate frontend developer and a learner </h3> 
+<h3 align="center">A passionate coder learning the things of coding world very enthuastically until devin comes up. </h3> 
 
 <img align = "right" alt = "coding" width="350" height ="300" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -15,12 +15,14 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, C++**
 
 - 📫 How to reach me **rishabhrawat@1800gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rishabh-rawat-28730827b/**
 - ⚡Fun fact **I will always be learning and improving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh rawat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh rawat" height="30" width="40" /></a>
+<a href
+="https://www.leetcode.com/rishabh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh rawat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
