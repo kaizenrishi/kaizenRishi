@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Rishabh Rawat</h1>
-<h3 align="center">A passionate coder learning the things of coding world very enthuastically until devin comes up. </h3> 
+<h3 align="center">i am just a Learner. </h3> 
 
 <img align = "right" alt = "coding" width="350" height ="300" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
