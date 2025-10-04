@@ -14,7 +14,6 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, C, C++**
 
 - 📫 How to reach me **rishabhrawat@1800gmail.com**
-- 📫 How to reach me **https://www.linkedin.com/in/rishabh-rawat-28730827b/**
 - ⚡Fun fact **I will always be learning and improving**
 
 <!-- <h3 align="left">Connect with me:</h3>
